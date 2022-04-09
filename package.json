@@ -56,7 +56,7 @@
     "firebase": "^6.2.0",
     "firebase-admin": "^8.2.0",
     "fuse.js": "^3.3.0",
-    "moment": "^2.23.0",
+    "moment": "^2.29.2",
     "node": "^11.5.0",
     "node-gyp": "^3.8.0",
     "pdfjs-dist": "^2.0.943",
